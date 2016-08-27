@@ -13,6 +13,8 @@ import android.widget.TextView;
 
 public class DetailActivity extends ActionBarActivity {
 
+    // testing comment
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
